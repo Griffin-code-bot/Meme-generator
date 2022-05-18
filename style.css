@@ -38,6 +38,7 @@ media (max-width: 450px)
  
   #believe {
   display: flex;
+  justify-content: space-between;
   }
   
   
