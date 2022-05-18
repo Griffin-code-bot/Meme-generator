@@ -35,3 +35,10 @@ media (max-width: 450px)
   text-align: right;
   color: yellow;
   }
+ 
+  #believe {
+  display: flex;
+  }
+  
+  
+  
