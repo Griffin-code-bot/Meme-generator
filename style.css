@@ -30,3 +30,7 @@ media (max-width: 450px)
 }
 .my-btn {
     background-color: #0d0208;
+  
+.side  {
+  align: right;
+  }
