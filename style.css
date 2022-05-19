@@ -43,6 +43,7 @@ media (max-width: 450px)
   
   li {
   display: flex;
+  text-decoration: none;
   }
   
   
