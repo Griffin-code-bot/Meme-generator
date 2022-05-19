@@ -1,1 +1,1 @@
-# Meme-generator
+# QUALITY INTERNSHIP
