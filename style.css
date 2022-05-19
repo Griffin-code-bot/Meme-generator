@@ -41,5 +41,8 @@ media (max-width: 450px)
   justify-content: space-between;
   }
   
+  li {
+  display: flex;
+  }
   
   
