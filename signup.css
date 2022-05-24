@@ -46,7 +46,7 @@ input[type=text], input[type=password] {
   /* Float cancel and signup buttons and add an equal width */
   .cancelbtn, .signupbtn {
     float: left;
-    width: 50%;
+    width: 80%;
   }
   
   /* Add padding to container elements */
